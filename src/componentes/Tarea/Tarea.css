@@ -1,0 +1,19 @@
+.margin
+{
+    margin-bottom: 20px;
+}
+
+.marg
+{
+    margin-top: 40px;
+}
+
+.taskCompleted
+{
+    text-decoration: line-through;
+}
+
+.taskIncompleted
+{
+    text-decoration: none;
+}
